@@ -1,6 +1,11 @@
 # JWT_Authentication
 
-This project is a simple project that uses JWT
+This project is a simple way to implement JWT
+
+Note that this is mix based in this 2 tutorials
+
+1- [Simple JWT Authentication using ASP.NET Core Web API](https://medium.com/@meghnav274/simple-jwt-authentication-using-asp-net-core-api-5d04b496d27b)  
+2- [How to Implement JWT Authentication in Web API Using .Net 6.0, Asp.Net Core](https://www.c-sharpcorner.com/article/how-to-implement-jwt-authentication-in-web-api-using-net-6-0-asp-net-core/?__cf_chl_rt_tk=9zsdRyLJ6HY1QhhSsIBDgE5VuHxbM6QOhC4Tpw3G_Fk-1712809358-0.0.1.1-1514)
 
 ## Get token
 
